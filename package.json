@@ -14,7 +14,7 @@
     "type-check": "vue-tsc --build"
   },
   "dependencies": {
-    "@nealrame/l-system": "NealRame/l-systems#v0.0.1",
+    "@nealrame/l-system": "NealRame/l-systems#v0.0.2",
     "typescript": "~5.9.0",
     "vue": "^3.5.25"
   },
