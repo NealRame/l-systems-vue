@@ -13,6 +13,9 @@ export const LSystem = {
     }
 }
 
-export * from "./types"
-
 export * from "@nealrame/l-system"
+export * from "./types"
+export {
+    LSystemCanvas,
+    LSystemSVG,
+}
