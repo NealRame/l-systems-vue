@@ -1,6 +1,6 @@
 {
   "name": "l-systems-vue",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "L-Systems generator/renderer for your Vue project",
   "private": true,
   "type": "module",
